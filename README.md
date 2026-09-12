@@ -2,6 +2,9 @@
 
 ## 📊 Project Overview
 This project analyzes inventory and supply chain data using Microsoft Excel. The goal is to clean the data, calculate important KPIs, and create an interactive dashboard to identify useful business insights.
+## 📊 Dashboard Preview
+
+![Supply Chain Dashboard](supply_chain_dashboard.png)
 
 ## 🎯 Business Problem
 The raw supply chain data contained inconsistent dates, duplicate records, and missing or unavailable values, making it difficult to analyze sales, orders, and inventory performance.
